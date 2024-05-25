@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../xampp/htdocs/ddsbe1"
+		},
+		{
+			"path": "../../../xampp/htdocs/ddsbe2"
+		},
+		{
+			"path": "../../../xampp/htdocs/ddsgateway"
+		}
+	],
+	"settings": {}
+}
